@@ -1,1 +1,3 @@
-# toolkit-java
+# Jkit
+
+Collection of various utilities, classes and libraries.
